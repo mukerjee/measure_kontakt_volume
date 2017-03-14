@@ -1,0 +1,5 @@
+legato
+sustains
+staccato
+portato_short
+to_trills_ht_wt

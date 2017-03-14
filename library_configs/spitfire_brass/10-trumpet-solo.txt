@@ -1,0 +1,15 @@
+fx_gliss
+long_flutter
+long_mariachi
+long_muted
+long
+multitongue
+marcato_muted
+marcato
+staccato_muted
+staccato
+tenuto_muted
+tenuto
+trills_major_2nd
+trills_minor_2nd
+legato

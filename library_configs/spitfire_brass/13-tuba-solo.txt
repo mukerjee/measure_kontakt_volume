@@ -1,0 +1,9 @@
+falls
+long_stopped
+long
+rips
+marcato
+staccato
+stopped
+tenuto
+legato

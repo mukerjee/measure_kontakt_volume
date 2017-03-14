@@ -1,0 +1,10 @@
+fall
+fx_gliss
+long_cuivre
+long
+multitongue
+rips
+marcato
+staccato
+tenuto
+legato

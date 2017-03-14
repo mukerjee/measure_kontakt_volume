@@ -1,0 +1,11 @@
+fall
+long_flutter
+long
+rip
+marcato
+staccatissimio
+staccato
+tenuto
+trill_major_2nd
+trill_minor_second
+legato

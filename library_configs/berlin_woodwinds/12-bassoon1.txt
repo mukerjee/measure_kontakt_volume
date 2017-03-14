@@ -1,0 +1,10 @@
+legato
+sustains
+staccato
+staccato_short
+portato_short
+portato_long
+sforzando
+double_tongue
+triple_tongue
+to_trills_ht_wt

@@ -1,0 +1,12 @@
+falls
+long_mariachi
+long_muted
+long
+multitongue
+rips
+marcato
+staccato
+tenuto
+trills_major_2nd
+trills_minor_2nd
+legato

@@ -1,0 +1,4 @@
+eighth
+half
+sustain
+legato

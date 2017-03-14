@@ -1,0 +1,8 @@
+legato
+sustains
+staccato
+portato_short
+portato_long
+sforzando
+double_tongue
+triple_tongue

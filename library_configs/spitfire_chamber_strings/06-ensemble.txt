@@ -1,0 +1,15 @@
+long_cs
+long_flautando
+long_harmonics
+long_sul_pont
+long_sul_tasto
+long
+short_cs
+short_col_legno
+short_pizzicato_bartok
+short_pizzicato
+short_spiccato
+short_staccato
+tremolo
+trill_(major_2nd)
+trill_(minor_2nd)

@@ -1,0 +1,10 @@
+fall
+fanfare
+long_cuivre
+long
+multitongue
+rip
+marcato
+staccato
+tenuto
+performance_legato

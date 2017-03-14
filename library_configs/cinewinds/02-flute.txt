@@ -1,0 +1,7 @@
+eighth
+quarter
+half
+sustain
+half_step_trill
+whole_step_trill
+legato

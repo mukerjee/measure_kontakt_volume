@@ -1,0 +1,13 @@
+legato
+sustains
+staccato
+staccato_short
+portato_short
+portato_long
+double_tongue
+triple_tongue
+to_trills_ht_5th
+to_trills_measured
+to_trills_sfz
+to_trills_1x
+runs_transitions

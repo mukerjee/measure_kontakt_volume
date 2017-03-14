@@ -1,0 +1,11 @@
+legato
+sustains
+staccato
+staccato_short
+portato_short
+portato_long
+sforzando
+to_trills_ht_5th
+to_trills_sfz
+to_trills_1x
+runs_transitions

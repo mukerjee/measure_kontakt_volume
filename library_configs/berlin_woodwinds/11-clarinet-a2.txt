@@ -1,0 +1,9 @@
+legato
+sustains
+staccato
+portato_short
+portato_long
+sforzando
+to_trills_ht_wt
+runs_transitions
+runs_builder

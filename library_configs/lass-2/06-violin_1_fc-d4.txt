@@ -1,0 +1,8 @@
+legato_sustain
+tremolo_legato
+trill_legato
+marcato
+pizzicato
+#sordino_sustain
+spiccato
+staccato

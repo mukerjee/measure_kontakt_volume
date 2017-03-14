@@ -1,0 +1,14 @@
+fall
+long_cuivre
+long_flutter_muted
+long_flutter
+long_muted
+long
+multitongue
+rip
+marcato_muted
+marcato
+staccato_muted
+staccato
+tenuto_muted
+tenuto
